@@ -85,6 +85,7 @@ span.text-red {
   position: absolute;
   right: -8px;
   font-size: 12px;
+  line-height: 18px;
   color: #eee;
   background-color: #f02d34;
   width: 18px;
@@ -92,7 +93,7 @@ span.text-red {
   border-radius: 50%;
   text-align: center;
   font-weight: 600;
-
+  justify-content: center;
 }
 .products-container{
   display: flex;
